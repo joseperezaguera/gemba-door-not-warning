@@ -5,7 +5,7 @@
 > (`Closes #451`, `fixes #3`, `resolved #7`), y un test que lo mide **por efecto**:
 > un fichero centinela que no aparece.
 
-Acompaña al artículo [*Un prompt no es una puerta*](https://newsletter.gemba.es) de la
+Acompaña al artículo [*Un prompt no es una puerta*](https://newsletter.gemba.es/p/un-prompt-no-es-una-puerta) de la
 newsletter **Gemba** (serie *Más allá del vibe coding*, 2 de 8). Está pensado para leerlo
 entero en diez minutos y copiarlo en tu proyecto.
 
